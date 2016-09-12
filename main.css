@@ -1,0 +1,28 @@
+/*Add some style to your page*/
+body{
+   text-align: center;
+   background-color: #111111;
+   color: #FFFFFF;
+   width: 600px;
+   margin: auto;
+}
+
+.spaceship_in_space{
+    border: none;
+}
+
+canvas{
+	background: #0000FF;
+}
+/*Margin*/
+p {
+    margin-top: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+div{
+    width: 400px;
+}
+.spaceship2{
+  width: 550px;
+}
